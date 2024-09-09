@@ -1,4 +1,8 @@
 # Trainity-Bank-Loan-Case-Study
+
+![image](https://github.com/user-attachments/assets/2637c09a-69ba-401e-a397-8a81df0f0fc0)
+
+
 Imagine you're a data analyst at a finance company that specializes in lending various types of loans to urban customers. Your company faces a challenge: some customers who don't have a sufficient credit history take advantage of this and default on their loans. Your task is to use Exploratory Data Analysis (EDA) to analyze patterns in the data and ensure that capable applicants are not rejected.
 
 When a customer applies for a loan, your company faces two risks:
